@@ -47,13 +47,7 @@
 
 ## 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=Astranat&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
-
-![](https://nirzak-streak-stats.vercel.app/?user=Astranat&theme=tokyonight&hide_border=true)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Astranat&theme=tokyonight&hide_border=true&layout=compact)
-
----
+![Vecanto's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vecanto&theme=cobalt&show_icons=true&hide_border=false&layout=compact)
 
 ## 🏆 Achievements
 ![](https://github-profile-trophy.vercel.app/?username=Astranat&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)
