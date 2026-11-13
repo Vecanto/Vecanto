@@ -30,12 +30,11 @@ I'm open to collaborating with developers and designers, and to talking through 
 ## GitHub stats
 
 <p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Vecanto&theme=cobalt&show_icons=true&count_private=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Vecanto&theme=cobalt&show_icons=true" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vecanto&theme=cobalt&layout=compact" />
 </p>
 
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Vecanto&theme=cobalt&hide_border=true)
-
+![Streak](https://streak-stats.demolab.com/?user=Vecanto&theme=cobalt&hide_border=true)
 ---
 
 [![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=flat&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/nvdmsa)
