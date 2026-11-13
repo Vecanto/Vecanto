@@ -67,7 +67,22 @@
 ![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-0E1128?style=flat-square&logo=unrealengine&logoColor=white)
 ![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white)
 
+---
 
+### 📈 Contributions
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Vecanto/Vecanto/output/github-snake-dark.svg" />
+  <img alt="Contribution graph" src="https://raw.githubusercontent.com/Vecanto/Vecanto/output/github-snake.svg" />
+</picture>
+
+---
+
+### 📌 Projects
+
+Pyrun : (https://pyrun-bice.vercel.app/) 
+
+---
 
 <p align="center">
   <a href="https://buymeacoffee.com/nvdmsa"><img src="https://img.shields.io/badge/Buy_me_a_coffee-ffdd00?style=flat-square&logo=buy-me-a-coffee&logoColor=black" /></a>
