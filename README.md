@@ -70,12 +70,16 @@
 ---
 
 ### 📈 Contributions
-
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Vecanto/Vecanto/output/github-snake-dark.svg" />
-  <img alt="Contribution graph" src="https://raw.githubusercontent.com/Vecanto/Vecanto/output/github-snake.svg" />
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/Vecanto/workflows/output/github-snake-dark.svg"
+  />
+  <img
+    alt="Contribution graph"
+    src="https://raw.githubusercontent.com/Vecanto/workflows/output/github-snake.svg"
+  />
 </picture>
-
 ---
 
 ### 📌 Projects
