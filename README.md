@@ -78,5 +78,5 @@ Pyrun : (https://pyrun-bice.vercel.app/)
 ---
 
 <p align="center">
-  <a href="buymeacoffee.com/scalper"><img src="https://img.shields.io/badge/Buy_me_a_coffee-ffdd00?style=flat-square&logo=buy-me-a-coffee&logoColor=black" /></a>
+  <a href="https://buymeacoffee.com/scalper"><img src="https://img.shields.io/badge/Buy_me_a_coffee-ffdd00?style=flat-square&logo=buy-me-a-coffee&logoColor=black" /></a>
 </p>
